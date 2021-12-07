@@ -1233,8 +1233,8 @@ a {
   }
 }
 .cid-sQTSJCSvwY {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
+  padding-top: 6rem;
+  padding-bottom: 10rem;
   background-color: #bbbbbb;
 }
 .cid-sQTSJCSvwY .mbr-overlay {
@@ -1248,7 +1248,7 @@ a {
 @media (min-width: 992px) {
   .cid-sQTSJCSvwY form.mbr-form {
     padding: 3rem 2rem;
-    width: 60%;
+    width: 40%;
   }
 }
 @media (max-width: 991px) {
